@@ -1,4 +1,4 @@
-# Heart Diseases Analysis Dashboard
+# Heart Diseases Analysis Dashboard using power Bi
 Heart disease has been a leading cause of mortality worldwide for decades. Understanding heart disease trends, risk factors, and outcomes is crucial for developing effective prevention and treatment strategies, allocating healthcare resources, and improving public health. Comprehensive data analysis is essential to drive informed decision-making in the healthcare industry.
 This project aims to analyze heart disease data and create an interactive dashboard using Power BI. The dashboard provides insights into various aspects of heart diseases, including survival rates, average age of survival, total survival, total death, and the impact of factors like smoking, high blood pressure, diabetes, and anemia on different age groups.
 
